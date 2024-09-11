@@ -86,3 +86,6 @@ definition notifications/integration {
 }
 
 // Test comment - 846beace-706d-11ef-ba5a-4a0aa65e6904
+definition test/test {
+	relation test: test/test
+}
