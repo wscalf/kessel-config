@@ -85,6 +85,7 @@ definition notifications/integration {
 	permission enable = workspace->notifications_integration_enable
 }
 
+
 // Test comment - 846beace-706d-11ef-ba5a-4a0aa65e6904
 definition test/test {
 	relation test: test/test
